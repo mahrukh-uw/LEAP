@@ -10,8 +10,6 @@ SF- Bay Area|[mahrukhrz@gmail.com](mailto:mahrukhrz@gmail.com)| 206-335-3867 **|
 
 **Frameworks &amp; Tools:** Azure, Tableau, Power BI, Azure ML, SAS, Visual Studio, Plotly|Dash
 
-**Relevant Skills:** Data Analyst, Business analyst, Software Engineer
-
 <ins>**EXPERIENCE**</ins>
 
 **Capstone,** _Metro Parks_,Tacoma, WA **July 2018 - Jun 2019**
@@ -34,8 +32,6 @@ The financial planning dashboard was able to integrate the data coming from diff
 
 <ins>**FELLOWSHIP**</ins>
 
-![](RackMultipart20201212-4-rbje1p_html_981da44633f54b92.gif)
-
 **Data Engineering Fellow,** _Insight Data Science_, Silicon Valley Sep 2020 – Nov 2020
 
 I worked on a seven weeks training program as an Insight Data Engineering Fellow. The fellowship involved training on different cloud engineering platforms (Azure) and tools (Kafka, Cassandra etc.)
@@ -45,8 +41,6 @@ I worked on a seven weeks training program as an Insight Data Engineering Fellow
 - Implemented efficient modules for text matching using Tries in Python to improve the computational speed of the system by around ten times
 
 <ins>**PROJECTS**</ins>
-
-![](RackMultipart20201212-4-rbje1p_html_981da44633f54b92.gif)
 
 - Developed a **Text Prediction model** to predict next words using n-grams and suffix trees
 - Implemented an **ML model to predict housing price** using Multiple Regression on Redfin Data in R
