@@ -12,7 +12,7 @@ SF- Bay Area|[mahrukhrz@gmail.com](mailto:mahrukhrz@gmail.com)| 206-335-3867 **|
 
 **Relevant Skills:** Data Analyst, Business analyst, Software Engineer
 
-**EXPERIENCE**![](RackMultipart20201212-4-rbje1p_html_981da44633f54b92.gif)
+<ins>**EXPERIENCE**</ins>
 
 **Capstone,** _Metro Parks_,Tacoma, WA **July 2018 - Jun 2019**
 
@@ -32,7 +32,7 @@ The financial planning dashboard was able to integrate the data coming from diff
 - Provided technical support for local area networking, MIS operational activities and system development using Oracle applications
 - Developed standard operating procedures and tracked issues with the quality control center.
 
-**FELLOWSHIP**
+<ins>**FELLOWSHIP**</ins>
 
 ![](RackMultipart20201212-4-rbje1p_html_981da44633f54b92.gif)
 
@@ -44,7 +44,7 @@ I worked on a seven weeks training program as an Insight Data Engineering Fellow
 - Created a scalable data engineering pipeline using PySpark for text processing, Cassandra for data storage and Plotly Dash for results visualization
 - Implemented efficient modules for text matching using Tries in Python to improve the computational speed of the system by around ten times
 
-**PROJECTS**
+<ins>**PROJECTS**</ins>
 
 ![](RackMultipart20201212-4-rbje1p_html_981da44633f54b92.gif)
 
@@ -53,7 +53,7 @@ I worked on a seven weeks training program as an Insight Data Engineering Fellow
 - Developed a data mining/machine learning model to **classify emails as SPAM and non-SPAM** using different text feature like TF-IDF in Python ([Link](https://drive.google.com/file/d/1UZ2l1qw59WW69EOqhlUDV-4f8YieuYXF/view?usp=sharing))
 - Developed a **dashboard to analyze popular smartphone apps** in China using SQL and Tableau([Link](https://public.tableau.com/profile/mahrukh.mehmood#!/vizhome/MahrukhMehmood_PopularAppsInChina/TalkingData_TutorialDashboard))
 
-**EDUCATION**![](RackMultipart20201212-4-rbje1p_html_981da44633f54b92.gif) **University of Washington** Masters in Business Analytics 2018 - 2019
+<ins>**EDUCATION**</ins>
 
 **University of Washington** Natural Language Technology(Certificate) 2016 - 2017
 
