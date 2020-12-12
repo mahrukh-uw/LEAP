@@ -24,7 +24,7 @@ As part of the MS Business Analytics degree requirements, I worked on a year-lon
 
 The financial planning dashboard was able to integrate the data coming from different sources into a centralized dashboard, helping Metro Parks Tacoma to plan their resources and budgets effectively
 
-**Software Engineer** , _Orient Petroleum INC,_ISB **May2013- Jan 2014**
+**Software Engineer** , Orient Petroleum INC,ISB **May2013- Jan 2014**
 
 - Designed and implemented **improvements to the existing quality assurance system** improving scalability and efficiency of the system
 - Provided technical support for local area networking, MIS operational activities and system development using Oracle applications
