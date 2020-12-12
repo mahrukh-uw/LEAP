@@ -2,7 +2,7 @@
 
 SF- Bay Area|[mahrukhrz@gmail.com](mailto:mahrukhrz@gmail.com)| 206-335-3867 **|** [linkedin.com/in/mahrukh-uw](http://linkedin.com/in/mahrukh-uw)| [github.com/mahrukh-u](https://github.com/mahrukh-uw)[w](https://github.com/mahrukh-uw) |
 
-**SKILLS**![](RackMultipart20201212-4-rbje1p_html_981da44633f54b92.gif)
+<ins>**SKILLS**</ins>
 
 **Programming Languages:** Python, R, C/C++, SQL, Java
 
